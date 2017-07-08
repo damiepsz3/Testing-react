@@ -22,3 +22,14 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.test {
+  padding: 10px;
+  margin: 10px;
+  background-color: #FFDE00;
+  color: #333;
+  display: inline-block;
+  font-family: monospace;
+  font-size: 32px;
+  text-align: center;
+}
