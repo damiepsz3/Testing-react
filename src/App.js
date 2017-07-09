@@ -1,14 +1,12 @@
 import React, { Component } from 'react';
-import Hello from './components/Hello';
-import Buttonify from './components/Buttonify';
+import Shirt from './components/Shirt';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Hello greetTarget="Pichon de picuru"/>
-        <Buttonify behavior="Submit">SEND DATA</Buttonify>
+        <Shirt myid="unique" color="steelblue" num="3.14" size="medium" />
       </div>
     );
   }
