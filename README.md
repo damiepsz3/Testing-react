@@ -5,7 +5,7 @@
 The project has examples from the tutorial [Learn React](https://www.kirupa.com/react/).
 But the example from here are in ES6.
 
-Jump between the existence branchs to find them! :twisted_rightwards_arrows:
+Jump between the existence branches to find them! :twisted_rightwards_arrows:
 
 
 
