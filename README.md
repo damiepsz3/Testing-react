@@ -1,3 +1,8 @@
+## Abut this Project
+
+The project has examples from the tutorial [Learn React](https://www.kirupa.com/react/).
+But the example from here are in ES6.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
