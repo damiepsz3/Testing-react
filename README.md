@@ -1,4 +1,4 @@
-## Abut this Project
+## About this Project
 
 :+1: React Rocks! :shipit:
 
